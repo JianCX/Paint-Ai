@@ -1,2 +1,2 @@
 # Paint-Ai
-learn how to pain
+have fun with painting 
